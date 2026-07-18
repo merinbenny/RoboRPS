@@ -7,3 +7,13 @@ Hi, this is my **AI Rock-Paper-Scissors Game**, a real-time computer vision-base
 The game uses a **YOLO-based hand gesture recognition model** with **OpenCV** and the **Roboflow Inference API** to detect the player's hand gesture through a webcam. The detected gesture is classified as **Rock, Paper, or Scissors**, and the AI generates its move to determine the winner.
 
 The application includes a custom **Tkinter graphical user interface**, animated background styling, configurable game rounds, live score tracking, and real-time gesture detection.
+## 🖼️ Output Screenshots
+
+### Start Screen
+
+![Start Screen](OutputScreen1.png)
+
+
+### Game Screen
+
+![Game Screen](Output%20Screen2.png)
